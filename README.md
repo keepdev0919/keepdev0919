@@ -1,10 +1,9 @@
 <div align="center">
 
-# 조익준 · Ikjun Cho
+# 안녕하세요, 만드는 걸 좋아하는 **조익준**입니다.<br/>
 
-안녕하세요, 만드는 걸 좋아하는 **조익준**입니다.<br/>
-🚀 SOPT 39기 기획 파트 · 앱잼 「루티」 PM
-🧪 KAIST OverEdge 1인 창업 프로그램 전국 100인 선발
+- SOPT 39기 기획 파트 · 앱잼 「루티」 PM
+- KAIST OverEdge 1인 창업 프로그램 전국 100인 선발
 
 <a href="mailto:keepdev0919@gmail.com"><img src="https://img.shields.io/badge/Email-keepdev0919@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
