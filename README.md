@@ -16,9 +16,9 @@
 <td>
 
 ### [천명록](https://www.cheonmyeongrok.com) 🔮
-**사주팔자 AI 해석 + 수호신 부적 디지털 굿즈**
+**사주로 찾는 나의 수호신**
 
-생년월일만 넣으면 AI가 내 사주를 읽어 주듯 풀어 줍니다. 회원가입 없이 쓰고, KG이니시스 정식 가맹으로 **실제 결제를 받으며 운영 중**이에요.
+생년월일과 생시를 넣으면 pdf 약 100페이지에 해당하는 사주리포트를 만들어줘요. 또한 사용자의 용신을 찾고 용신에 맞는 60갑자 수호신을 제공하는 서비스입니다
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 <br/>[🌐 서비스](https://www.cheonmyeongrok.com) · [📄 소개](https://github.com/keepdev0919/cheonmyeongrok-showcase)
