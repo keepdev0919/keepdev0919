@@ -65,7 +65,7 @@
 ### [Routee Mock](https://github.com/keepdev0919/routee-mock) ⛰️
 **등산 앱 QA를 책상 앞에서 끝내는 모의 위치 앱**
 
-벤처창업동아리 **SOPT**에서 등산 서비스 **루티**의 PM을 맡고 있어요. 기능 하나 확인하려 해도 직접 나가서 걷고 사진을 찍어야 했고, QA 기간엔 정해진 시간 안에 같은 길을 계속 오가야 했죠. GPS 시뮬레이터 앱은 광고가 너무 많아 QA에 쓸 수 없었어요. 그래서 **루티 디자인에 맞춘 광고 없는 모의 위치 앱**을 직접 만들었습니다.
+벤처창업동아리 **SOPT**에서 등산 서비스 **루티**의 PM을 맡고 있어요. 기능 하나 확인하려 해도 직접 나가서 걷고 사진을 찍어야 했고, QA 기간엔 정해진 시간 안에 같은 길을 계속 오가야 하는 불편함이 있었습니다. GPS 시뮬레이터 앱은 광고가 너무 많아 QA에 쓸 수 없었어요. 그래서 **루티 디자인에 맞춘 광고 없는 모의 위치 앱**을 직접 만들었습니다.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 <br/>[📦 APK 받기](https://github.com/keepdev0919/routee-mock/releases/latest)
@@ -116,8 +116,6 @@
 </td>
 </tr>
 </table>
-
-<sub>천명록 · 저녁산책 · 오늘할일은 코드를 비공개로 관리합니다.</sub>
 
 <br/>
 
