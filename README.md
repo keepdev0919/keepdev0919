@@ -103,7 +103,7 @@
 </tr>
 
 <tr>
-<td width="180" align="center"><h1>🗓️</h1><sub>오늘할일</sub></td>
+<td width="180" align="center"><img src="assets/todo.jpg" width="150"/></td>
 <td>
 
 ### 오늘할일 🗓️
