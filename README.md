@@ -2,10 +2,8 @@
 
 # 조익준 · Ikjun Cho
 
-**내가 불편한 걸 직접 만들어서 해결하는 사람**
+**안녕하세요**
 
-기획 · 디자인 · 개발 · 출시까지 혼자 끝까지 갑니다.<br/>
-웹 · iOS · Android · macOS, 필요한 곳이면 어디든.
 
 <a href="mailto:keepdev0919@gmail.com"><img src="https://img.shields.io/badge/Email-keepdev0919@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
