@@ -2,8 +2,10 @@
 
 # 조익준 · Ikjun Cho
 
-**안녕하세요**
-
+안녕하세요, 만드는 걸 좋아하는 **조익준**입니다.<br/>
+🚀 SOPT 39기 기획 파트 · 앱잼 「루티」 PM<br/>
+🧪 KAIST OverEdge 1인 창업 프로그램 전국 100인 선발<br/>
+🔮 지금은 천명록을 운영하고 있어요
 
 <a href="mailto:keepdev0919@gmail.com"><img src="https://img.shields.io/badge/Email-keepdev0919@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
@@ -119,12 +121,17 @@
 
 <br/>
 
-## 🏅 수상 · 선발
+## 🏅 수상 · 자격
 
 - 🏆 **SOPT 앱잼 대상 · 사업성 우수상** (2026) — 등산 기록 앱 루티
-- 🚀 **KAIST OverEdge 1인 창업 프로그램** 전국 100인 선발
 - 🍊 **2026 관광데이터 활용 공모전** 예비심사 통과 — 놀멍봅서
 - 📜 정보처리기사 · SQL 개발자(SQLD)
+
+<br/>
+
+## 🎓 학력
+
+- **경희대학교 컴퓨터공학과** <sub>2027.02 졸업예정</sub>
 
 <br/>
 
